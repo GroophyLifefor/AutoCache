@@ -3,7 +3,11 @@ AutoCache/GtCache
 
 ## usage:
  - firstly "gtcache.exe" and "proxy.exe" must same path "server.exe"
+
+ - also have releases at release folder.
+
  - after we goto main void
+
 ```cpp
 cache/*or whatever source use cache string*/ = takecache("GrowID", "Password");
 ```
