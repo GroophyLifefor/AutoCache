@@ -68,3 +68,10 @@ string takecache(string GrowID, string Password)
 	}
 }
 ```
+
+![1](https://user-images.githubusercontent.com/77299279/136859996-66b30cae-a615-4068-8470-9d34083b6560.PNG)
+
+
+
+
+![2](https://user-images.githubusercontent.com/77299279/136860016-662b43fc-c204-4fc1-a44d-20527f189a99.PNG)
